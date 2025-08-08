@@ -40,5 +40,6 @@ public class InterestCalc {
         else {
             System.out.println("Invalid Input!!");      //Output
         }
+        sc.close();
     }
 }
