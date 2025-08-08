@@ -1,7 +1,7 @@
 package org.example;
 import java.util.Scanner;
 
-public class Main {
+public class InterestCalc {
     public static void main(String[] args){
         //Scanner declaration
         Scanner sc = new Scanner(System.in);
